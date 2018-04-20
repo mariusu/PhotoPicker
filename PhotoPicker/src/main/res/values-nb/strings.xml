@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="__picker_title">Bilder</string>
+    <string name="__picker_delete">Slett</string>
+    <string name="__picker_done">Ferdig</string>
+    <string name="__picker_done_with_count">Ferdig (%1$d/%2$d)</string>
+    <string name="__picker_image_index">%1$d/%2$d</string>
+    <string name="__picker_undo">Angre</string>
+    <string name="__picker_deleted_a_photo">Slett et bilde</string>
+    <string name="__picker_confirm_to_delete">Er du sikker?</string>
+    <string name="__picker_yes">Ja</string>
+    <string name="__picker_cancel">Avbryt</string>
+    <string name="__picker_all_image">Alle bilder</string>
+    <string name="__picker_image_count">%1$d</string>
+    <string name="__picker_over_max_count_tips">Du kan ikke velge flere enn %1$d bilder</string>
+</resources>
